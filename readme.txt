@@ -2,6 +2,12 @@ Git is a distributed version control sysytem.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
+<<<<<<< HEAD
 Creating a new branch is quick and simple.
 Git can merge branches.
 What if I am interropt by other assignments while I haven't finish the current job which can not be submit.
+||||||| merged common ancestors
+Creating a new branch is quick.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> d090339df5bfadc43a5264648f25ed5fa082f05e
